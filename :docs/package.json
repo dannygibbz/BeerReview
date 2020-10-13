@@ -1,0 +1,19 @@
+{
+  "name": "beerreview",
+  "version": "1.0.0",
+  "description": "An app for discovering beer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannygibbz/BeerReview.git"
+  },
+  "author": "Daniel Gibbons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannygibbz/BeerReview/issues"
+  },
+  "homepage": "https://github.com/dannygibbz/BeerReview#readme"
+}
